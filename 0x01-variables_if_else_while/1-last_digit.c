@@ -1,8 +1,8 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 /*
  * main - print the last digit of the number
- * and whether it is greater than 5, less than 6, or is 0
  *
  * Return: Always 0
  */
